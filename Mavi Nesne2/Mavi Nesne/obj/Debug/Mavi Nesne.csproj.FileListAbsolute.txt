@@ -1,0 +1,149 @@
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csprojAssemblyReference.cache
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Form1.resources
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Properties.Resources.resources
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe.config
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.pdb
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CopyComplete
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.exe
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.pdb
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Controls.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Fuzzy.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Genetic.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Vision.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Math.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Controls.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Fuzzy.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Genetic.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Vision.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Math.xml
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\melih\source\repos\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.Formats.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe.config
+H:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.exe
+H:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.pdb
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.pdb
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\mscorlib.dll
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Controls.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Fuzzy.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Genetic.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.Formats.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Math.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.DirectShow.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Vision.xml
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\tr\mscorlib.resources.dll
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\normidna.nlp
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\normnfc.nlp
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\normnfd.nlp
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\normnfkc.nlp
+H:\Mavi Nesne\Mavi Nesne\bin\Debug\normnfkd.nlp
+H:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csprojResolveAssemblyReference.cache
+H:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Form1.resources
+H:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Properties.Resources.resources
+H:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.GenerateResource.Cache
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe.config
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.pdb
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Controls.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Fuzzy.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Genetic.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.Formats.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Math.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.DirectShow.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Vision.xml
+G:\Mavi Nesne\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+G:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csprojResolveAssemblyReference.cache
+G:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Form1.resources
+G:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Properties.Resources.resources
+G:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.GenerateResource.Cache
+G:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.exe
+G:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.pdb
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csprojAssemblyReference.cache
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Form1.resources
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Properties.Resources.resources
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.GenerateResource.cache
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CoreCompileInputs.cache
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.exe
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.pdb
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe.config
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.pdb
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Math.dll
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Controls.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Fuzzy.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Genetic.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.Formats.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Math.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.DirectShow.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Vision.xml
+F:\Mavi Nesne\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+F:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CopyComplete
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe.config
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.exe
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\Mavi Nesne.pdb
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Controls.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Fuzzy.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Genetic.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Imaging.Formats.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Math.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Video.DirectShow.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\AForge.Vision.xml
+D:\Mavi Nesne\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csprojAssemblyReference.cache
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Form1.resources
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi_Nesne.Properties.Resources.resources
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.GenerateResource.cache
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CoreCompileInputs.cache
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CopyComplete
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.exe
+D:\Mavi Nesne\Mavi Nesne\obj\Debug\Mavi Nesne.pdb
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\Mavi Nesne.exe.config
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\Mavi Nesne.exe
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\Mavi Nesne.pdb
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Controls.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Fuzzy.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Genetic.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Imaging.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Imaging.Formats.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Math.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Video.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Video.DirectShow.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\AForge.Vision.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi Nesne.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi_Nesne.Form1.resources
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi_Nesne.Properties.Resources.resources
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi Nesne.csproj.CopyComplete
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi Nesne.exe
+\\Mac\Home\Desktop\Mavi Nesne2\Mavi Nesne\obj\Debug\Mavi Nesne.pdb
