@@ -64,7 +64,7 @@ namespace Mavi_Nesne
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(104, 77);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Start";
+            this.button1.Text = "Başlat";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -174,7 +174,7 @@ namespace Mavi_Nesne
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(104, 77);
             this.button2.TabIndex = 11;
-            this.button2.Text = "Start";
+            this.button2.Text = "Başlat";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -185,7 +185,7 @@ namespace Mavi_Nesne
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(120, 77);
             this.button3.TabIndex = 13;
-            this.button3.Text = "Stop";
+            this.button3.Text = "Durdur";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -196,7 +196,7 @@ namespace Mavi_Nesne
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(120, 77);
             this.button4.TabIndex = 14;
-            this.button4.Text = "Stop";
+            this.button4.Text = "Durdur";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -222,22 +222,22 @@ namespace Mavi_Nesne
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(1227, 710);
+            this.button5.Location = new System.Drawing.Point(38, 694);
             this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(193, 82);
             this.button5.TabIndex = 17;
-            this.button5.Text = "Exit";
+            this.button5.Text = "Programdan Çık";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // proje2gecis
             // 
-            this.proje2gecis.Location = new System.Drawing.Point(1227, 582);
+            this.proje2gecis.Location = new System.Drawing.Point(38, 524);
             this.proje2gecis.Name = "proje2gecis";
             this.proje2gecis.Size = new System.Drawing.Size(193, 93);
             this.proje2gecis.TabIndex = 18;
-            this.proje2gecis.Text = "Proje2";
+            this.proje2gecis.Text = "Proje2             Başlat Durdur";
             this.proje2gecis.UseVisualStyleBackColor = true;
             this.proje2gecis.Click += new System.EventHandler(this.proje2gecis_Click);
             // 
